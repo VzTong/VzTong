@@ -14,7 +14,7 @@
   
   <th col=3>
     <a target="_blank">
-       <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif" width="500px" style="max-width:100%;">
+       <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif" style="max-width:100%;">
     </a>
   </th>
   
