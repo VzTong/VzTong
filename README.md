@@ -3,7 +3,7 @@
   Hi there 👋, I'm VzTong!
 </h1>
 <p align="center">⚡You can call me Vy or the nickname I mentioned before, my real name is Tong Nha Vy
-  <b style="color:#60E1E6">🍀Tống Nhã Vy🍀</b> 
+  <b>🍀Tống Nhã Vy🍀</b> 
   (≧∇≦)ﾉ  
 </p>
 
