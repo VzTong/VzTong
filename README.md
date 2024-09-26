@@ -2,7 +2,9 @@
   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px>
   Hi there 👋, I'm VzTong!
 </h1>
-<p align="center">⚡You can call me Vy or the nickname I mentioned before🍀My real name is Tong Nha Vy (≧∇≦)ﾉ  
+<p align="center">⚡You can call me Vy or the nickname I mentioned before, my real name is Tong Nha Vy
+  <b style="color:#60E1E6">🍀Tống Nhã Vy🍀</b> 
+  (≧∇≦)ﾉ  
 </p>
 
 <table>
