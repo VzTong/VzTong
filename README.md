@@ -43,6 +43,6 @@
   
 </div>
 
-<p align="center">Click here to see more: https://nhavy.id.vn/</p>
+<p align="center"  target="_blank">Click here to see more: https://nhavy.id.vn/</p>
 
 #
