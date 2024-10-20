@@ -16,7 +16,7 @@
   
   <th col=3>
     <a target="_blank">
-       <img src="https://github.com/user-attachments/assets/f6b45907-406c-4d55-9d84-9c5282a2e747" width="450px" style="max-width:100%;">
+       <img src="https://github.com/user-attachments/assets/f6b45907-406c-4d55-9d84-9c5282a2e747" style="max-width:100%;">
     </a>
   </th>
   
