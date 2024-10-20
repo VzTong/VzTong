@@ -10,7 +10,7 @@
 <table>
   <th>
     <a target="_blank">
-      <img src="https://github.com/user-attachments/assets/422a8fbe-dced-4b2e-96d6-c2292fb5d736" width="250px" style="max-width:100%;">
+      <img src="https://github.com/user-attachments/assets/422a8fbe-dced-4b2e-96d6-c2292fb5d736" width="220px" style="max-width:100%;">
     </a>
   </th>
   
