@@ -10,19 +10,19 @@
 <table>
   <th>
     <a target="_blank">
-      <img src="https://github.com/user-attachments/assets/422a8fbe-dced-4b2e-96d6-c2292fb5d736" width="450px" style="max-width:100%;">
+      <img src="https://github.com/user-attachments/assets/422a8fbe-dced-4b2e-96d6-c2292fb5d736" width="250px" style="max-width:100%;">
     </a>
   </th>
   
   <th col=3>
     <a target="_blank">
-       <img src="https://github.com/user-attachments/assets/f6b45907-406c-4d55-9d84-9c5282a2e747" style="max-width:100%;">
+       <img src="https://github.com/user-attachments/assets/f6b45907-406c-4d55-9d84-9c5282a2e747" width="450px" style="max-width:100%;">
     </a>
   </th>
   
   <th>
     <a target="_blank">
-      <img src="https://github.com/user-attachments/assets/7d1f3271-f09a-4c72-8201-efce09c6384e" width="500px" style="max-width:100%;">
+      <img src="https://github.com/user-attachments/assets/7d1f3271-f09a-4c72-8201-efce09c6384e" width="200px" style="max-width:100%;">
     </a>
   </th>
   
