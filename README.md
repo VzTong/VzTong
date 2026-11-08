@@ -43,8 +43,8 @@
 <b>My GitHub Stats</b>
 
 <div>
-  <a href="http://www.github.com/VzTong"><img src="https://github-readme-stats.vercel.app/api?username=vztong&show_icons=true&hide=contribs&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vztong's GitHub stats" /></a>
-  <!-- <a href="http://www.github.com/VzTong"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vztong&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
+  <!-- <a href="http://www.github.com/VzTong"><img src="https://github-readme-stats.vercel.app/api?username=vztong&show_icons=true&hide=contribs&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vztong's GitHub stats" /></a> -->
+  <a href="http://www.github.com/VzTong"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vztong&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
 
 ### Thank you for visiting my profile💖
